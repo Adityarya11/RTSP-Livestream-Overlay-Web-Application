@@ -287,3 +287,7 @@ hls.js
 react-draggable
 react-resizable
 ```
+
+### NOTE
+This is the assignment project for Intern selection and i know shit about javascript. The project is made under the eye of the Claude, however due to time constraint it wasnt completed yet and wont be completing it later as well.
+This repo will be made archive if i wont get any response from the recruiter.
